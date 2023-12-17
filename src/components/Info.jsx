@@ -6,7 +6,7 @@ export default function Info() {
   return (
     <div className="info">
       <img
-        src="/images/aminoffice.png"
+        src="public/images/aminoffice.png"
         alt="Profile photo"
         className="profile-photo"
       ></img>
