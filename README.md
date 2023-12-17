@@ -1,4 +1,4 @@
-# Business Card Project(https://cardbyaminu.netlify.app)
+# [Business Card Project](https://cardbyaminu.netlify.app)
 
 ![Business Card App](public/images/card.PNG)
 
